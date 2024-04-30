@@ -1,5 +1,5 @@
 ## Prompt:
-Insert punctuation and paragraphs in the following text. Highlight keywords that are related to machine learing.
+Insert punctuation and paragraphs in the following text. Highlight keywords that are related to machine learning.
 
 the following is a conversation with
 Jana kun he's considered to be one of
