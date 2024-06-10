@@ -23,6 +23,30 @@ Manufacturing plant is the latest target in investigation by state officials.
 Answer:
 ```
 
+CoT (Chain of Thoughts) one-shot:
+```
+Which vehicle requires a larger down payment based on the following information?
+
+The total cost of vehicle A is $40,000, and it requires a 30 percent down payment.
+The total cost of vehicle B is $50,000, and it requires a 20 percent down payment.
+(Think step by step)
+```
+
+CoT Few-shot:
+```
+In a given week, the viewers for a TV channel are as follows:
+
+Monday: 6,500 viewers
+Tuesday: 6,400 viewers
+Wednesday: 6,300 viewers
+
+Question: How many viewers can we expect on Friday?
+
+Answer: Based on the numbers given and without any more information, there is a daily decrease of 100 viewers. If we assume this trend will continue during the following days, we can expect 6,200 viewers on the next day that would be Thursday, and therefore 6,100 viewers on the next day that would be Friday.
+
+Question: How many viewers can we expect on Saturday? (Think step by step)
+```
+
 Challenge question:
 ```
 What is the latest novel written by Stephen King?
