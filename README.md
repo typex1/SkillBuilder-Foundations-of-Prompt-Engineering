@@ -40,7 +40,7 @@ Monday: 6,500 viewers
 Tuesday: 6,400 viewers
 Wednesday: 6,300 viewers
 
-Question: How many viewers can we expect on Friday?
+Question: How many viewers can we expect on Friday?
 
 Answer: Based on the numbers given and without any more information, there is a daily decrease of 100 viewers. If we assume this trend will continue during the following days, we can expect 6,200 viewers on the next day that would be Thursday, and therefore 6,100 viewers on the next day that would be Friday.
 
